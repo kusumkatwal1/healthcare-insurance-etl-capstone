@@ -5,4 +5,4 @@
 
 ## Project Structure
   - README.md :
-  - "data" : this is the folder containing all the datas
+  - "data" : this is the folder containing all the cvs data files
