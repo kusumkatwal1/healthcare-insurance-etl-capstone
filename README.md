@@ -5,4 +5,4 @@
 
 ## Project Structure
   - README.md :
-  - data : this 
+  - "data" : this is the folder containing all the datas
