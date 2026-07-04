@@ -3,7 +3,7 @@
 
 
 
-## Project Structure
+## File Structure
   - "**README.md**": Guideline documents
   - "**data**": this is the folder containing all the CVS data files
 
