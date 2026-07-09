@@ -1,7 +1,7 @@
 # healthcare-insurance-bigdata-capstone:
   
 
-
+## Project Workflow
 
 ## File Structure
   - "**README.md**": Guideline documents
