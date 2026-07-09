@@ -1,5 +1,5 @@
 # healthcare-insurance-bigdata-capstone:
-    This project implements an end-to-end Healthcare Insurance
+    This project implements an end-to-end Healthcare Insurance Big Data Analytics pipeline using AWS S3, Databricks, PySpark, and Amazon Redshift.
 
 ## Project Workflow
     
