@@ -1,5 +1,5 @@
 # healthcare-insurance-bigdata-capstone:
-  
+    This project implements an end-to-end Healthcare Insurance
 
 ## Project Workflow
     
