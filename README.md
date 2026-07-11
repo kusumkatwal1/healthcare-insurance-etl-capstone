@@ -34,7 +34,7 @@
                 ▼
     SQL Business Analytics
 
-#technology
+#Technology Stack
 
 ## File Structure
   - "**README.md**": Guideline documents
