@@ -35,6 +35,8 @@
     SQL Business Analytics
 
 ## Technology Stack
+    - AWS S3
+    - Databricks
 
 ## File Structure
   - "**README.md**": Guideline documents
