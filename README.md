@@ -39,7 +39,9 @@
     - Databricks
     - PySpark
     - Amazon Redshift Serverless
-    -SQL
+    - SQL
+    - GitHub
+    - Jira
 
 ## File Structure
   - "**README.md**": Guideline documents
