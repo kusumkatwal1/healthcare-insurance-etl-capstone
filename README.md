@@ -1,7 +1,7 @@
 # healthcare-insurance-bigdata-capstone:
     This project implements an end-to-end Healthcare Insurance Big Data Analytics pipeline using AWS S3, Databricks,
     PySpark and Amazon Redshift. The pipeline ingests raw healthcare insurance datasets, performs data cleaning and 
-    transformation,
+    transformation, and generates analytical reports to support business decision-making.
     
 
 ## Project Workflow
