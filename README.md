@@ -37,6 +37,9 @@
 ## Technology Stack
     - AWS S3
     - Databricks
+    - PySpark
+    - Amazon Redshift Serverless
+    -SQL
 
 ## File Structure
   - "**README.md**": Guideline documents
