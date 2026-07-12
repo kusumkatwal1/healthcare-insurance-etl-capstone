@@ -44,7 +44,7 @@
     - Jira
 
 ## File Structure
-  - "**README.md**": Guideline documents, Project overview, 
+  - "**README.md**": Guideline documents, Project overview, objectives, technology stack, workflow, and setup instructions.
   - "**data**": this is the folder containing all the CVS data files
   - 
 
