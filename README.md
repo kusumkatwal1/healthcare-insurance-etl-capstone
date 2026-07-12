@@ -45,7 +45,7 @@
 
 ## File Structure
   - "**README.md**": Guideline documents, Project overview, objectives, technology stack, workflow, and setup instructions.
-  - "**data**": this is the folder containing all the CVS data files
+  - "**data**": This is the folder containing all the Raw data files
   - 
 
 @ 2026 Kusum Katwal
