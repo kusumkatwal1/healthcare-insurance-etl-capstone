@@ -6,7 +6,7 @@
 
 ## Project Workflow
     
-    Healthcare Insurance CSV data Files
+    Healthcare Insurance CSV Data Files
                 │
                 ▼
     Amazon S3 (input-data)
