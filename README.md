@@ -47,6 +47,6 @@
   - "**README.md**": Guideline documents, Project overview, objectives, technology stack, workflow, and setup instructions.
   - "**data**": This is the folder containing all the Raw data files
   - "**data_cleaning.ipynb**": This file contains the Python code for 
-  - "02_Result_generation.ipynb": This file contains Python code for loading the cleaned datasets and implementing all 13 use cases on them.
+  - "**02_Result_generation.ipynb**": This file contains Python code for loading the cleaned datasets and implementing all 13 use cases on them.
 
 @ 2026 Kusum Katwal
