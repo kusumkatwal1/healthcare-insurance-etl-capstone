@@ -48,6 +48,6 @@
   - "**data**": This is the folder containing all the Raw data files
   - "**data_cleaning.ipynb**": This file contains the Python code for 
   - "**02_Result_generation.ipynb**": This file contains Python code for loading the cleaned datasets and implementing all 13 use cases on them.
-  - "**Kusum_Katwal_Capstone_Project_Screenshot_Documentation.pdf**": This file contains the overall process and details about the project
+  - "**Kusum_Katwal_Capstone_Project_Screenshot_Documentation.pdf**": This file contains the overall overview process and details about the project.
 
 @ 2026 Kusum Katwal
